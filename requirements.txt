@@ -1,0 +1,5 @@
+jupyter
+python-dotenv
+
+matplotlib
+llama-index
