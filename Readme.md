@@ -29,5 +29,5 @@ This project is licensed under the [MIT License](LICENSE). Please see the LICENS
 
 ## Acknowledgments
 
-- [LlamaIndex](https://github.com/jerrynlp/LlamaIndex) - The library used for building the Agentic Rag model.
-- [Other relevant libraries or resources]
+- [LlamaIndex](https://github.com/run-llama) - The library used for building the Agentic Rag model.
+- [Other relevant libraries or resources]()
