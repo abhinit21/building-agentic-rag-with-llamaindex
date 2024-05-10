@@ -1,0 +1,8 @@
+# Intellj
+.idea/
+
+# Python Environment
+venv/
+
+# Environment varaiables
+.env
